@@ -107,7 +107,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Label1"}
+      Value: {"LocaleId":"en-US","Text":"Label1aaa"}
 - Name: TextBox1
   Id: g=f6b9bff92f409bc29add175bb5d18ce5
   Supertype: TextBox
