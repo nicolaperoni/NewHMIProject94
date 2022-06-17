@@ -1,0 +1,17 @@
+Project:
+ Name: NewHMIProject94_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 10.0.0.0
+ Dependencies:
+  2:
+   Uri: NewHMIProject94
+   RelativePath: NewHMIProject94.uniqo
+  3:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.1.0.0
+ Nodes: []
